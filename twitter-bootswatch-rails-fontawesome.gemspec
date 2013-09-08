@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency             'railties',   '>= 3.1'
   spec.add_dependency             'less-rails', '>= 2.3'
 
-  spec.add_dependency             'twitter-bootswatch-rails', '~> 2.3.2'
+  spec.add_dependency             'twitter-bootswatch-rails', '~> 3.0.0'
 
   spec.add_development_dependency 'rails', '>= 3.1'
 
